@@ -10,5 +10,3 @@ I am currently working with technologies like FastReport, Machine Learning, REST
 Apart from programming, I like to play videogames, lift heavy things, play chess, drive my motorcycle and many other things.
 </p>
 
-
-![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=nasch7kadse&show_icons=true&theme=radica&count_private=truel)
