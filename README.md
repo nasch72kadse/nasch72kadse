@@ -7,6 +7,7 @@
 <p align="center">I am a C#/Python Developer from Germany. <br>
 I am working for a bioscience company and doing my B.Sc. in Data Science, and I also like being busy with my programming projects.
 I am currently working with C# applications, also doing much testing with xUnit and learning many things about Data Science related topics. <br>
-Apart from programming, I like to play video games, lift heavy things, play chess, drive my motorcycle, and many other things.
-</p>
+Apart from programming, I like to play video games, lift heavy things, play chess, drive my motorcycle, and many other things. </p>
+  
+<p align="center">Wanna play chess? --> https://lichess.org/@/BlackyGhosty </p>
 
